@@ -1,8 +1,3 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://camo.githubusercontent.com/abe04c0b2ccc0ef7d6677540854002171c38295caa13c50d2832274832442a99/68747470733a2f2f63646e2e66696c65737461636b636f6e74656e742e636f6d2f6566625352313868543575524b756f307a6f4d41" alt="Banner" width="100%" />
-</p>
-
 # 💫 About Me:
 Hi, I’m Rohan Patil 👋. I’m passionate about MERN Stack development 💻 and creating dynamic, user-friendly web applications. I am looking for exciting opportunities 🚀 to enhance my skills, learn, grow, and contribute to meaningful and real-world projects 🌟.
 
