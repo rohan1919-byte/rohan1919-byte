@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br> ●  MERN Stack Projects<br><br>👯 I’m looking to collaborate on<br><br> ● MERN Stack and open-source web development projects<br><br>🤝 I’m looking for help with<br><br> ● Next.js and backend performance optimization<br><br>🌱 I’m currently learning<br><br>  ● Next.js, Advanced Node.js, and API integration<br><br>💬 Ask me about<br><br>  ● MERN Stack Development, Databases, REST APIs, and Authentication systems<br><br>⚡ Fun fact<br><br>  ● I enjoy building real-world web apps and transforming creative ideas into responsive, functional websites 🚀
-
+Hi, I’m Rohan Patil 👋. I’m passionate about MERN Stack development 💻 and creating dynamic, user-friendly web applications. I am looking for exciting opportunities 🚀 to enhance my skills, learn, grow, and contribute to meaningful and real-world projects 🌟.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/iamrohanpatil ) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29980987) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohanpatil9904@gmail.com) 
