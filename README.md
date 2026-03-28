@@ -7,7 +7,7 @@ Hi, I’m Rohan Patil 👋. I’m passionate about MERN Stack development 💻 a
 
 - ✅ Hacktoberfest 2024 Finisher  
   - 🔥 4 Pull Requests Successfully Merged
-  - 
+    
 - ✅ Hacktoberfest 2025 Finisher  
   - 🚀 12 Pull Requests Successfully Merged  
   - 💻 Contributed to Open Source Projects
