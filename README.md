@@ -18,7 +18,12 @@ Hi, I’m Rohan Patil 👋. I’m passionate about MERN Stack development 💻 a
 - 🔹 Total Merged PRs: **18+**
 - 🔹 Active Contributor in Open Source
 - 🔹 Experienced with Git & GitHub Workflow
+  
+## 🏅 Badges
 
+![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2024%20%26%202025-orange?style=for-the-badge&logo=github)
+![PRs](https://img.shields.io/badge/Merged%20PRs-18%2B-blue?style=for-the-badge&logo=git)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge)
       
 ## 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamrohanpatil) 
