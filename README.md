@@ -1,5 +1,24 @@
 # 💫 About Me:
 Hi, I’m Rohan Patil 👋. I’m passionate about MERN Stack development 💻 and creating dynamic, user-friendly web applications. I am looking for exciting opportunities 🚀 to enhance my skills, learn, grow, and contribute to meaningful and real-world projects 🌟.
+
+## 🏆 Achievements
+
+### 🎃 Hacktoberfest Contributions
+
+- ✅ Hacktoberfest 2024 Finisher  
+  - 🔥 4 Pull Requests Successfully Merged
+  - 
+- ✅ Hacktoberfest 2025 Finisher  
+  - 🚀 12 Pull Requests Successfully Merged  
+  - 💻 Contributed to Open Source Projects
+  - 🎁 Earned Official Hacktoberfest T-Shirt   
+
+## 💻 Open Source Contributions
+
+- 🔹 Total Merged PRs: **18+**
+- 🔹 Active Contributor in Open Source
+- 🔹 Experienced with Git & GitHub Workflow
+
       
 ## 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamrohanpatil) 
